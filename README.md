@@ -13,9 +13,9 @@ Features
 - Detailed Logging: Log all transactions for audit and troubleshooting.
 
 Tech Stack
-Programming Language: Python
-SAP Connectivity: pyrfc (requires SAP NetWeaver RFC SDK)
-Data Handling: pandas, openpyxl, xml.etree.ElementTree
-User Interface:
-Desktop: Tkinter
-Web: Streamlit or Flask
+- Programming Language: Python
+- SAP Connectivity: pyrfc (requires SAP NetWeaver RFC SDK)
+- Data Handling: pandas, openpyxl, xml.etree.ElementTree
+- User Interface:
+- Desktop: Tkinter
+- Web: Streamlit or Flask
